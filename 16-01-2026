@@ -1,0 +1,90 @@
+oops basics cods
+code 1
+class and object creation 
+
+class Student {
+    // logic
+    int rollNumber;
+    String name;
+}
+
+
+public class Main
+{
+	public static void main(String[] args) {
+	    Student obj = new Student();
+	    obj.rollNumber =1;
+	    obj.name = "priyanshu";
+	    System.out.println(obj.rollNumber);
+	    System.out.println(obj.name);
+	}
+}
+
+
+code 2 
+Constructors ((parametersless))
+
+class Student {
+    // logic
+    int rollNumber;
+    String name;
+
+    Student(){
+        rollNumber=1;
+        name = "priyanshu";
+  } 
+}
+public class Main
+{
+	public static void main(String[] args) {
+	    Student obj = new Student();
+	 
+	    System.out.println(obj.rollNumber);
+	    System.out.println(obj.name);
+	}
+}
+
+
+code3
+Constructors ((parameters))
+
+class Student {
+    // logic
+    int rollNumber;
+    String name;
+
+    Student(int i, String n){
+        rollNumber=i;
+        name = n;
+  } 
+}
+public class Main
+{
+	public static void main(String[] args) {
+	    Student obj = new Student(1,"priyanshu");
+	 
+	    System.out.println(obj.rollNumber);
+	    System.out.println(obj.name);
+	}
+}
+
+
+code 4 
+Attributes (self vs local variables)
+
+class Student {
+    int rollNumber; //instance variable
+
+    void setId(int rollNumber) { //local variable
+       this.rollNumber = rollNumber; 
+  } 
+}
+public class Main
+{
+	public static void main(String[] args) {
+	    Student obj = new Student();
+	    obj.setId(1);
+	 
+	    System.out.println(obj.rollNumber);
+	}
+}
