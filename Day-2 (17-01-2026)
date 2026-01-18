@@ -1,0 +1,90 @@
+topic Constructors 
+  automata fix question
+  
+1.Question
+.Analyze the following Java code:
+Will the code compile?
+If not, what is the error?
+Write the correct code.
+
+
+Incorrect code
+  
+class Student {
+    int id;
+    String name;
+
+    Student() {
+        System.out.println("Student Created");
+    }
+
+    Student() {
+        id = 101;
+        name = "Rahul";
+    }
+
+    public static void main(String[] args) {
+        Student s = new Student();
+    }
+}
+
+Correct code
+class Student {
+    int id;
+    String name;
+
+    Student() {
+        id = 101;
+        name = "Rahul";
+        System.out.println("Student Created");
+    }
+
+    public static void main(String[] args) {
+        Student s = new Student();
+    }}
+
+2.Question
+Check the following code and answer:
+Is the code correct?
+What will be the output?
+If incorrect, write the corrected code.
+Incorrect code
+class Employee {
+    int empId;
+    String empName;
+
+    Employee(int empId, String empName) {
+        empId = empId;
+        empName = empName;
+    }
+
+    void display() {
+        System.out.println(empId + " " + empName);
+    }
+
+    public static void main(String[] args) {
+        Employee e = new Employee(101, "Amit");
+        e.display();
+    }
+}
+
+Correct code
+  
+class Employee {
+    int empId;
+    String empName;
+
+    Employee(int empId, String empName) {
+        this.empId = empId;
+        this.empName = empName;
+    }
+
+    void display() {
+        System.out.println(empId + " " + empName);
+    }
+
+    public static void main(String[] args) {
+        Employee e = new Employee(101, "Amit");
+        e.display();
+    }
+}
