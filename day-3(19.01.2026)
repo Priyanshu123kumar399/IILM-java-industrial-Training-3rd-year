@@ -1,0 +1,123 @@
+code 1
+creating behaviors (methods)
+
+class Student {
+    void study(){
+        //logic 
+        System.out.println("Student is studying");
+    }
+    void sleep() {
+        System.out.println("Student is sleeping");
+        
+    }
+}
+public class Main 
+{
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        s1.study();
+        s1.sleep(); // referring
+    }
+}
+
+code 2 
+// refrence variable
+
+class Student {
+    int marks =80;
+    }
+    
+    
+public class Main 
+{
+    public static void main(String[] args) {
+        Student s1 = new Student(); // refrence variable--s1(objecct)
+        System.out.println(s1.marks);
+    }
+} 
+
+code 3
+// multiple refrence
+
+class Student {
+    int marks =80;
+    }
+public class Main 
+{
+    public static void main(String[] args) {
+        Student s1 = new Student(); // refrence variable--s1(objecct)
+        Student s2 = s1;  //same objecct
+        Student s3 = s2; // same objecct
+        System.out.println(s3.marks);
+    }
+}
+
+code 4 
+// multiple refrence
+
+class Student {
+    int marks =80;
+    }
+public class Main 
+{
+    public static void main(String[] args) {
+        Student s1 = new Student(); // refrence variable--s1(objecct)
+        Student s2 = s1;  //same objecct
+        Student s3 = s2; // same objecct
+        System.out.println(s3.marks);
+    }
+}
+output- Exception in thread "main" java.lang.NullPointerException: Cannot read field "marks" because "<local2>" is null
+        at Main.main(Main.java:12)
+
+
+code 5 
+
+// -- java is pass by value
+// -- the value passed is the refrence
+// -- Changes made to any object are reflected outside method 
+
+// pass by refrenceconcepts
+class Student {
+    int marks =80;
+    }
+    
+public class Main 
+{
+    static void updateMarks(Student s){
+        s.marks +=2;
+        
+    }
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        updateMarks(s1);
+        System.out.println(s1.marks); // 80+2==82
+    }
+    
+}
+
+
+code 6
+
+import java.util.*;
+class Student{
+    int id;
+    Student(int id){
+        this.id=id;
+    }
+}
+public class Main{
+    public static void main(String[] args){
+        //syntax of ArrayList
+        // List<datatype> list_name = new ArrayList<>();
+        
+        List<Student>students = new ArrayList<>();
+        students.add(new Student(101));
+        students.add(new Student(102));
+        for(Student s: students){
+            System.out.println(s.id);
+        }
+    }
+}
+
+
