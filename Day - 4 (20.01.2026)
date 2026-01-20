@@ -1,0 +1,66 @@
+//encapsulation means wrapping up the data (funtion, method, variables, objects)
+//into a single unit called class and restictions of the data access using access modifires
+//public private protected
+//need for encapsulation
+//--data Security
+//-- controlled
+//-- validation before the data change 
+//--code maintainbility
+
+//code 1 -- getters and setters
+
+class BankAccount {
+    int bankBalance;
+    //setters
+    public void setBalance(int amount){
+        if(amount >=0){
+            bankBalance = amount;
+        } else {
+            System.out.println("Invalid amount");
+        }
+      
+    } 
+    // getters 
+    public int getBalance() {
+        return bankBalance;
+    }
+}
+
+public class Main
+{
+	public static void main(String[] args) {
+		BankAccount acc = new BankAccount();
+		acc.setBalance(5000);
+		System.out.println(acc.getBalance());
+		
+	}
+}
+
+code 2
+// absraction 
+// absraction means hiding the implentation and showing only
+// the neccessary -- class cannot be intialized and it is formed using abstract keyword
+// abstractmethod -- no body only te implemention is there
+
+abstract class Vehicle {
+    abstract void start();
+}
+
+class  car extends Vehicle {
+    void start() {
+        System.out.println("car starts");
+    }
+}
+
+class Bike extends Vehicle {
+    void start() {
+        System.out.println("Bike starts");
+    }
+}
+
+class Main {
+    public static void main(String[] args) {
+        Vehicle v1 = new car();
+        Vehicle v2 = new Bike();
+    }
+}
