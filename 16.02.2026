@@ -1,0 +1,122 @@
+LeetCode 142 LinkedList Cycle 2
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode detectCycle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast) {
+                slow = head;
+                while(slow != fast) {
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
+            }
+        }
+        return null;
+    }
+}
+
+LeetCode 21 Merge Sorted List
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode tempList = new ListNode(0);
+        ListNode curr_node = tempList;
+
+        while(list1 != null && list2 != null) {
+            if(list1.val < list2.val) {
+                curr_node.next = list1;
+                list1 = list1.next;
+            } else {
+                curr_node.next = list2;
+                list2 = list2.next;
+            }
+            curr_node = curr_node.next;
+        }
+        if(list1 != null) {
+            curr_node.next = list1;
+            list1 = list1.next;
+        }
+        if(list2 != null) {
+            curr_node.next = list2;
+            list2 = list2.next;
+        }
+    return tempList.next;
+    }
+} 
+
+LeetCode Palindrome of a LL 234
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+
+    private ListNode reverserLinkedList(ListNode head) {
+        if(head == null || head.next == null) 
+        return head;
+
+        ListNode newHead = reverserLinkedList(head.next);
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
+        return newHead;
+    }
+
+    public boolean isPalindrome(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast.next!= null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        ListNode secondHalfStart = reverserLinkedList(slow.next);
+            ListNode first = head;
+            ListNode second = secondHalfStart;
+            boolean isPalindrome = true;
+
+            while(second != null) {
+                if(first.val != second.val){
+                    isPalindrome = false;
+                    break;
+                }
+                first = first.next;
+                second = second.next;
+            }
+            slow.next = reverserLinkedList(secondHalfStart);
+            return isPalindrome;
+    }
+
+}
