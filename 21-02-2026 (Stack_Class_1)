@@ -1,0 +1,76 @@
+LeetCode 20 
+Valid Paranthesis
+Approach 1 
+class Solution {
+    public boolean isValid(String s) {
+
+        Stack < Character > st = new Stack<> ();
+        for (int i=0; i<s.length(); i++ ){
+            char a = s.charAt(i);
+            if( a=='(' || a=='['|| a=='{')
+                st.push(a);
+            else if (st.empty()){
+                return false;
+            } 
+            else if (a==')' && st.pop()!='(')
+                return false;
+            else if (a=='}' && st.pop()!='{')
+                return false;
+            else if (a==']' && st.pop()!='[')
+                return false;    
+        }
+        return st.empty();   
+    }
+}
+Approach 2
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> st = new Stack<>();    
+
+        for(char c :s.toCharArray()) {
+            if(c == '(') {
+                st.push(')');
+            } else if ( c == '{') {
+                st.push('}');
+            } else if (c == '[') {
+                st.push(']');
+            } else {
+                if(st.isEmpty() || st.pop() != c) {
+                return false;
+                }
+            }
+        }
+        return st.isEmpty();
+    }
+}
+
+Leetcode 735 Asteroid Collision 
+class Solution {
+    public int[] asteroidCollision(int[] asteroids) {
+        int n = asteroids.length;
+        Stack<Integer> st = new Stack<>();
+
+        for (int i = 0; i < n; i++) {
+            if (asteroids[i] > 0 || st.isEmpty()) {
+                st.push(asteroids[i]);
+            } else {
+                while (!st.isEmpty() && st.peek() > 0 && st.peek() < Math.abs(asteroids[i])){
+                    st.pop();
+                }
+
+            if (!st.isEmpty() && st.peek() == Math.abs(asteroids[i])) {
+                st.pop();
+            } else {
+            if(st.isEmpty() || st.peek() < 0) {
+                    st.push(asteroids[i]);
+                }
+            }
+        }
+    }
+        int[] result = new int[st.size()];
+        for (int i = st.size() - 1; i >= 0; i--) {
+            result[i] = st.pop();
+        }
+        return result;
+    }
+}
