@@ -35,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
