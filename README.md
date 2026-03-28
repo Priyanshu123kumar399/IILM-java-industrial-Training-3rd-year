@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0009-palindrome-number/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 <!---LeetCode Topics End-->
