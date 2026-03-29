@@ -44,6 +44,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0262-trips-and-users](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0608-tree-node/) | Medium |
