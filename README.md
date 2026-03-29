@@ -51,6 +51,7 @@
 | [0608-tree-node](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1280-students-and-examinations/) | Easy |
