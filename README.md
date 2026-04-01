@@ -82,6 +82,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
+| [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
+| [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +172,8 @@
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
