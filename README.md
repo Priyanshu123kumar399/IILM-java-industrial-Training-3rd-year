@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
