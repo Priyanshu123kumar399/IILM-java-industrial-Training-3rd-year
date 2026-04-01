@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -113,9 +115,22 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
