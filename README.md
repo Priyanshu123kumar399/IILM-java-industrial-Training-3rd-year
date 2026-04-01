@@ -9,6 +9,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0231-power-of-two/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0788-rotated-digits](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0788-rotated-digits/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
 ## Bit Manipulation
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -99,6 +101,7 @@
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Divide and Conquer
@@ -125,6 +128,7 @@
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
@@ -160,4 +164,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 <!---LeetCode Topics End-->
