@@ -26,10 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
