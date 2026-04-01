@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
+| [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +136,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 <!---LeetCode Topics End-->
