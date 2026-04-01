@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0009-palindrome-number/) | Easy |
+| [0060-permutation-sequence](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0060-permutation-sequence/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0231-power-of-two/) | Easy |
 | [0788-rotated-digits](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0788-rotated-digits/) | Medium |
@@ -16,6 +17,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0231-power-of-two/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
