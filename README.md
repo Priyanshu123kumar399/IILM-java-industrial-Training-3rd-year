@@ -19,6 +19,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0231-power-of-two/) | Easy |
 ## Tree
@@ -127,6 +128,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
