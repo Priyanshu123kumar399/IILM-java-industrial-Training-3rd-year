@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
