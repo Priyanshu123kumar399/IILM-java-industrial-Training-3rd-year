@@ -203,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1476-subrectangle-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1476-subrectangle-queries/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
