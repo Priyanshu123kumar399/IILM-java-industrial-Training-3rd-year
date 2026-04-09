@@ -81,6 +81,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
@@ -113,6 +114,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2080-range-frequency-queries/) | Medium |
@@ -207,4 +209,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0195-tenth-line/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
