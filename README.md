@@ -50,6 +50,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0856-score-of-parentheses/) | Medium |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0856-score-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
