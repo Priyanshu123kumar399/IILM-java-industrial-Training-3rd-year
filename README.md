@@ -108,6 +108,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
@@ -136,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
