@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Depth-First Search
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## String
@@ -221,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0856-score-of-parentheses/) | Medium |
 ## Monotonic Stack
