@@ -91,6 +91,7 @@
 | [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0789-escape-the-ghosts/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2080-range-frequency-queries/) | Medium |
@@ -177,6 +180,7 @@
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 | [2080-range-frequency-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2080-range-frequency-queries/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
