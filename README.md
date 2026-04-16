@@ -28,6 +28,7 @@
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Depth-First Search
@@ -36,11 +37,13 @@
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -48,6 +51,7 @@
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## String
@@ -112,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -133,6 +138,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
@@ -185,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 | [2080-range-frequency-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2080-range-frequency-queries/) | Medium |
