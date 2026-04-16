@@ -56,6 +56,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0856-score-of-parentheses/) | Medium |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
@@ -117,6 +118,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0460-lfu-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0888-fair-candy-swap/) | Easy |
@@ -189,6 +192,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -244,4 +248,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
