@@ -57,6 +57,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -108,6 +110,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [0788-rotated-digits](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0788-rotated-digits/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
 ## Two Pointers
@@ -129,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
@@ -210,6 +214,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -263,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
