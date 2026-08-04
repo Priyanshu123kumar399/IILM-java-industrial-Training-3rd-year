@@ -91,6 +91,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0001-two-sum/) | Easy |
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
 | [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
@@ -131,6 +132,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
