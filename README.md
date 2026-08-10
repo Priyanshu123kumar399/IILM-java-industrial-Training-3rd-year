@@ -177,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0155-min-stack/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0355-design-twitter](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -254,6 +255,7 @@
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0856-score-of-parentheses/) | Medium |
 ## Monotonic Stack
