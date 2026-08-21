@@ -107,6 +107,7 @@
 | [0999-available-captures-for-rook](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1032-stream-of-characters](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1032-stream-of-characters/) | Hard |
 | [1476-subrectangle-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1476-subrectangle-queries/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2080-range-frequency-queries/) | Medium |
 ## Dynamic Programming
@@ -235,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/2043-simple-bank-system/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
