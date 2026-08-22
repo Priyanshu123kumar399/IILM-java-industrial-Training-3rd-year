@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0100-same-tree/) | Easy |
+| [0322-coin-change](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0322-coin-change/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
@@ -96,6 +97,7 @@
 | [0047-permutations-ii](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0088-merge-sorted-array/) | Easy |
 | [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0322-coin-change/) | Medium |
 | [0788-rotated-digits](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0788-rotated-digits/) | Medium |
 | [0956-tallest-billboard](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0956-tallest-billboard/) | Hard |
 ## Two Pointers
@@ -280,4 +283,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyanshu123kumar399/IILM-java-industrial-Training-3rd-year/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
